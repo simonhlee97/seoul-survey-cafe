@@ -3,11 +3,11 @@
 #### To set up your local dev environment:
 1. fork
 2. clone
-3. `yarn`
+3. `yarn` (install dependencies)
 4. `yarn rw dev` or `RWJS_DEV_API_URL=“http://localhost” yarn rw dev`
 
 
--------------- Boilerplate README -----------------
+-------------- Boilerplate README from redwoodjs -----------------
 
 # README
 
